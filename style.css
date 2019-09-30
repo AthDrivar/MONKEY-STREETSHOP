@@ -1,0 +1,27 @@
+#shop
+{
+  font-family:verdana;
+  font-size:80%;
+  font-weight:bold;
+  margin:35px;
+}
+
+#search
+{
+  font-size:130%;
+  margin-right:500px;
+  margin-top:35px;
+}
+
+#titre
+{
+  font-family:Comic Sans MS;
+  font-size:300%;
+  font-weight:bold;
+  margin:35px;
+}
+
+#photo
+{
+  margin:50px;
+}
